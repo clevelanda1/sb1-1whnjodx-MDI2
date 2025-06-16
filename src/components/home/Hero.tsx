@@ -24,7 +24,7 @@ const Hero: React.FC = () => {
     'With Zero Effort',
     'And Shop The Look',
     'With Smart Assistance',
-    'With Instant Results',
+    'Get Instant Results',
     'With Creative Freedom',
   ];
 
